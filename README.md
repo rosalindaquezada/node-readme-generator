@@ -39,5 +39,3 @@ THEN I am taken to the corresponding section of the README
 ```
 
 Walkthrough Video:
-<video src='file:///Users/rosalindaquezada/Downloads/Untitled_%20Apr%2024,%202023%209_44%20PM%20(1).webm' width=180>
-(file:///Users/rosalindaquezada/Downloads/Untitled_%20Apr%2024,%202023%209_44%20PM%20(1).webm)
